@@ -19,8 +19,8 @@ git https://github.com/abdulrahmanabdulazeez/Thor.git
 
 # Platform
 ```
-Windows  ✅
-Unix     ❎
+* Windows  ✅
+* Unix     ❎
 
 Note that, this tool will only run on windows. A second version
 that will work on both Lindows and Unix(OS) will be made available
@@ -32,5 +32,9 @@ soon.
 You can contact me through this Link:
 ```
 https://web.facebook.com/abdulrahman.abdulazeez.5243
+
+* Do not forget to follow me on github @
+https://web.facebook.com/abdulrahman.abdulazeez.5243
+and also, star this project if you love it and want more of such contents.
 
 
