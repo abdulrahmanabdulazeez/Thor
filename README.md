@@ -8,9 +8,8 @@ The usage of this tool is simple and well defined in it i.e the tool.
 
 # Platform
 ```
-Windows    ✅
-Linux      ❎
-Termux     ❎
+Windows  ✅
+Unix     ❎
 Note that, this tool will only run on windows. A second version
 that will work on both Lindows and Unix(OS) will be made available
 soon.
