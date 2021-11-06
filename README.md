@@ -9,6 +9,7 @@ The usage of this tool is simple and well defined in it i.e the tool.
 This tool can be cloned by typing or alternatively copying
 this to your terminal:
 git https://github.com/abdulrahmanabdulazeez/Thor.git
+```
 
 # Platform
 ```
