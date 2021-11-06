@@ -14,8 +14,9 @@ The usage of this tool is simple and well defined in it. I.e the tool.
 ```
 This tool can be cloned by typing or alternatively copying
 this to your terminal:
-git https://github.com/abdulrahmanabdulazeez/Thor.git
 ```
+**git https://github.com/abdulrahmanabdulazeez/Thor.git**
+
 
 # Platform
 
@@ -31,13 +32,13 @@ soon.
 ```
 You can contact/reach me through this Link:
 ```
-https://web.facebook.com/abdulrahman.abdulazeez.5243
+**https://web.facebook.com/abdulrahman.abdulazeez.5243**
 
 # Piece of Advise
 
 * Do not forget to follow me on github @
 
-<a href="https://github.com/abdulrahmanabdulazeez">**https://web.facebook.com/abdulrahman.abdulazeez.5243**</a>
+<a href="https://github.com/abdulrahmanabdulazeez">**https://github.com/abdulrahmanabdulazeez**</a>
 ```
 and also, star this project if you love it and 
 want more of such contents.
