@@ -1,9 +1,11 @@
 # Thor
+```
 Thor is a DoS(slowloris) tool which can be used against a target.
 Thor is a denial-of-service(DoS) attack program which allows an attacker(you) to overwhelm a targeted server 
 by opening and maintaining many simultaneous HTTP connections between the attacker(you) and the target.
 It does this by continuously sending partial HTTP requests, none of which are ever completed.
 Note that this kind of attack is often very effective against thread-based Web Servers!
+```
 
 # Usage
 The usage of this tool is simple and well defined in it. I.e the tool.
